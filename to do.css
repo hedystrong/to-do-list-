@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+input{
+    width: 400px;
+    height: 35px;
+    border: none;
+    border-bottom: solid orange 3px;
+    background-color: rgb(245, 240, 237);
+    
+}
+button{
+    width: 70px;
+    height: 35px;
+    color: white;
+    background-color: orange;
+    border: none;
+    border-bottom: solid orange 3px;
+}
+#ooo{
+    padding-top: 60px;
+    font-size: 60px;
+}
+.ff{
+    display: flex;
+}
+#w{
+    content: url();
+}
